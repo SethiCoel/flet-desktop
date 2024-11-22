@@ -1,9 +1,3 @@
-# A desktop Flet app
+# Dektop flet
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+Um aplicativo desktop feito para monitorar minha api
